@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.AssemblyInfo.cs
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/bin/Debug/net8.0/TikTakToe
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/bin/Debug/net8.0/TikTakToe.deps.json
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/bin/Debug/net8.0/TikTakToe.runtimeconfig.json
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/bin/Debug/net8.0/TikTakToe.dll
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/bin/Debug/net8.0/TikTakToe.pdb
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.dll
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/refint/TikTakToe.dll
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.pdb
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/TikTakToe.genruntimeconfig.cache
+/Users/svage/RiderProjects/TikTakToe/TikTakToe/obj/Debug/net8.0/ref/TikTakToe.dll
